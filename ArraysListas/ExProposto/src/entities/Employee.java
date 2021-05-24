@@ -4,12 +4,12 @@ public class Employee {
 
     private int id;
     private String name;
-    private double salary;
+    private double income;
 
-    public Employee(int id, String name, double salary){
+    public Employee(int id, String name, double income){
         this.id = id;
         this.name = name;
-        this.salary = salary;
+        this.income = income;
     }
 
     public int getId() {
@@ -28,11 +28,12 @@ public class Employee {
         this.name = name;
     }
 
-    public double getSalary() {
-        return salary;
+    public double getIncome() {
+        return income;
     }
 
-    public void setSalary(double salary) {
-        this.salary = salary;
+    public void increaseIncome(double percentage){
+        this.income += this.income * percentage / 100;
     }
+
 }
