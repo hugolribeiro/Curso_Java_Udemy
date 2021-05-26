@@ -1,6 +1,6 @@
 package application;
 
-import entities.BankAccount;
+import entities.enums.BankAccount;
 
 import java.util.Locale;
 import java.util.Scanner;

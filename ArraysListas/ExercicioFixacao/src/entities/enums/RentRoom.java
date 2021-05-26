@@ -1,4 +1,4 @@
-package entities;
+package entities.enums;
 
 public class RentRoom {
     private int numero;

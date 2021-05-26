@@ -1,6 +1,6 @@
 package application;
 
-import entities.Rectangle;
+import entities.enums.Rectangle;
 
 import java.util.Scanner;
 
