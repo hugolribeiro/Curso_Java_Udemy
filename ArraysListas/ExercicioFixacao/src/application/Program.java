@@ -1,6 +1,6 @@
 package application;
 
-import entities.enums.RentRoom;
+import entities.RentRoom;
 
 import java.util.Locale;
 import java.util.Scanner;

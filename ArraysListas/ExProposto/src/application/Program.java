@@ -1,6 +1,6 @@
 package application;
 
-import entities.enums.Employee;
+import entities.Employee;
 
 import java.util.*;
 

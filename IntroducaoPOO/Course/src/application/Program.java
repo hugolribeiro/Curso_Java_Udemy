@@ -1,6 +1,6 @@
 package application;
 
-import entities.enums.Product;
+import entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

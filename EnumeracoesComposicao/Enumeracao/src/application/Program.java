@@ -1,7 +1,7 @@
 package application;
 
 import entities.Order;
-import entities.enums.OrderStatus;
+import entities.OrderStatus;
 
 import java.util.Date;
 

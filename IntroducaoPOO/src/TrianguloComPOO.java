@@ -1,4 +1,4 @@
-import entities.enums.Triangle;
+import entities.Triangle;
 
 import java.util.Scanner;
 
